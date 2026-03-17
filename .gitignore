@@ -1,0 +1,6 @@
+# Konfigurační soubor s lokálními cestami
+mirror_config.json
+
+# Dočasné soubory PowerShellu
+*.log
+*.tmp
